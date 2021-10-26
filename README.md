@@ -21,7 +21,7 @@ Banco criado e desenvolvido utilizando o Microsoft SQL Server Management Studio 
 
 ## Sobre o banco
 
-Escolhi esse tema como parte central do meu trabalho por ser um assunto recente e possuir uma modelagem mais interessante e precisa. Para ter acesso aos scripts basta clicar [aqui](/database/) ou ir a pasta `database`.
+Escolhi esse tema como parte central do meu trabalho por ser um assunto recente e possuir uma modelagem mais interessante e precisa. Para ter acesso aos scripts basta clicar [aqui](/databases/) ou ir a pasta `databases`.
 
 ### Storage Procedure e Views
 
