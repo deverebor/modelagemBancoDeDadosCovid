@@ -1,4 +1,4 @@
-# Modelagem - Banco de Dados Covid
+<h1 align="center">Modelagem - Banco de Dados Covid</h1>
 
 <p align="center">
 <strong>ESTE BANCO NÃO POSSÚI DADOS VERIDICOS, SÃO APENAS FICTICIOS PARA ESTUDO.</strong>
@@ -14,16 +14,16 @@ Modelagem feita no [Draw.io](https://app.diagrams.net/) `modelagem disponivél n
 
 Banco criado e desenvolvido utilizando o Microsoft SQL Server Management Studio 18.
 
-## Dependências para rodar a aplicação
+## 📦 Dependências para rodar a aplicação
 
 - `Microsoft SQL Server Management Studio 18 +.`
 - `Draw.io, para visualização do diagrama.`
 
-## Sobre o banco
+## 📜 Sobre o banco
 
 Escolhi esse tema como parte central do meu trabalho por ser um assunto recente e possuir uma modelagem mais interessante e precisa. Para ter acesso aos scripts basta clicar [aqui](/databases/) ou ir a pasta `databases`.
 
-### Storage Procedure e Views
+### 🪄 Storage Procedure e Views
 
 Dentro do arquivo `script.sql` está as procedures e views que foram criadas para a modelagem.
 
@@ -32,7 +32,7 @@ Dentro do arquivo `script.sql` está as procedures e views que foram criadas par
 - Views
   Criada uma view para noção dos status de pessoas infectadas pelas covid.
 
-### Modelagem do banco
+### 👨🏾‍🔬 Modelagem do banco
 
 ![banco](/assets/img/modelagemBancoDeDadosCovid.png)
 
@@ -40,25 +40,35 @@ Dentro do arquivo `script.sql` está as procedures e views que foram criadas par
 
 Primeiro foi criado uma modelagem parcial para a visualização do banco e poder ter a noção de como poderia aplicar a minha lógica sobre.
 
-### Diargama do Banco
+### 📊 Diargama do Banco
 
 Uma vez modelado apliquei a estrutura no SQL Server Management Studio 18.
 La pude modificar e aplicar todas as alterações necessárias.
 
 ![diagrama](/assets/img/diagramaBancoDeDadosCovid.png)
 
-## Oque aprendi ?
+## 📚 Oque aprendi ?
 
 - Criação de scrips no SQL Server Management Studio.
 - Criação e utilização prática do Storage Procedure.
 - Criação e utilização prática das Views.
 - Modelagem e manipulação do banco de dados.
 
-## Equipe composta por
+## 👨🏾‍🦱 Equipe composta por
 
-* Lucas Pereira Souza.
-<a target="_blank" href="https://www.linkedin.com/in/lucas-souza-dev/">
-        <img height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+- Lucas Pereira Souza.
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/lucas-souza-dev/">
+  <img height="25px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+  <p>
+  📩 lucasp.sdev@gmail.com
+  </p>
+</div>
 
-📩 lucasp.sdev@gmail.com
+---
+
+<p align="center">
+Desenvolvido com 💘 por Lucas Souza.
+</p>
