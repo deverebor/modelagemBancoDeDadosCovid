@@ -32,13 +32,15 @@ Dentro do arquivo `script.sql` está as procedures e views que foram criadas par
 - Views
   Criada uma view para mapear as **pessoas mortas** por unidade.
 
-### 👨🏾‍🔬 Modelagem do banco
+### 👨🏾‍🔬 Modelagem inical do banco
 
 ![banco](/assets/img/modelagemBancoDeDadosCovid.png)
 
 >Feita no draw.io disponibilizado no [diagrama](assets/model/modelagemBancoDeDadosCovid.drawio)
 
 Primeiro foi criado uma modelagem parcial para a visualização do banco e poder ter a noção de como poderia aplicar a minha lógica sobre.
+
+A partir desta modelagem eu consegui filtrar e construir o **diagrama** final, que pode ser analisado a baixo.
 
 ### 📊 Diargama do Banco
 
