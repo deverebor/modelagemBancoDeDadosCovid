@@ -36,7 +36,7 @@ Dentro do arquivo `script.sql` está as procedures e views que foram criadas par
 
 ![banco](/assets/img/modelagemBancoDeDadosCovid.png)
 
->Feita no draw.io disponibilizado no [diagrama](assets/model/modelagemBancoDeDadosCovid.drawio)
+>Feita no draw.io disponibilizado no [diagrama](assets/img/templates/)
 
 Primeiro foi criado uma modelagem parcial para a visualização do banco e poder ter a noção de como poderia aplicar a minha lógica sobre.
 
