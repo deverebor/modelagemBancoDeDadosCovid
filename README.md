@@ -56,6 +56,15 @@ La pude modificar e aplicar todas as alterações necessárias.
 - Criação e utilização prática das Views.
 - Modelagem e manipulação do banco de dados.
 
+## 📌 Links úteis
+
+- Slide da apresentação [aqui](assets/slide/Banco%20de%20Dados%20-%20Covid%20UNIME.pptx)
+- [Brasil.io](https://brasil.io/dataset/covid19/caso/) usado como base para a modelagem.
+
+## 🤝🏾 Agradecimentos
+
+Créditos especiais para [Bruno Lucciola](https://www.linkedin.com/in/brunolucciola/), [Gabriel Mendes](https://www.linkedin.com/in/gabriel-mendes-3a668917b/) e [Gabriel Melo](https://github.com/ArkGM) por ajudar a otimizar as buscas no DB e me auxiliar nas ideias da Procedures e View.
+
 ## 👨🏾‍🦱 Equipe composta por
 
 - Lucas Pereira Souza.
