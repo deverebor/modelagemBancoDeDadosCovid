@@ -28,9 +28,9 @@ Escolhi esse tema como parte central do meu trabalho por ser um assunto recente 
 Dentro do arquivo `script.sql` está as procedures e views que foram criadas para a modelagem.
 
 - Storage Procedure
-  Feito uma procedure para pesquisa de pessoas mortas pelas covid.
+  Feito uma procedure para pesquisa **nome** de pessoas infectadas.
 - Views
-  Criada uma view para noção dos status de pessoas infectadas pelas covid.
+  Criada uma view para mapear as **pessoas mortas** por unidade.
 
 ### 👨🏾‍🔬 Modelagem do banco
 
