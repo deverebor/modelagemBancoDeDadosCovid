@@ -1,7 +1,7 @@
 <h1 align="center">Modelagem - Banco de Dados Covid</h1>
 
 <p align="center">
-<strong>ESTE BANCO NÃO POSSÚI DADOS VERIDICOS, SÃO APENAS FICTICIOS PARA ESTUDO.</strong>
+<strong>ESTE BANCO NÃO POSSUI DADOS VERÍDICOS, SÃO APENAS FICTÍCIOS PARA ESTUDO.</strong>
 </p>
 
 <p align="center">
@@ -32,7 +32,7 @@ Dentro do arquivo `script.sql` está as procedures e views que foram criadas par
 - Views
   Criada uma view para mapear as **pessoas mortas** por unidade.
 
-### 👨🏾‍🔬 Modelagem inical do banco
+### 👨🏾‍🔬 Modelagem inicial do banco
 
 ![banco](/assets/img/modelagemBancoDeDadosCovid.png)
 
@@ -42,16 +42,16 @@ Primeiro foi criado uma modelagem parcial para a visualização do banco e poder
 
 A partir desta modelagem eu consegui filtrar e construir o **diagrama** final, que pode ser analisado a baixo.
 
-### 📊 Diargama do Banco
+### 📊 Diagrama do Banco
 
 Uma vez modelado apliquei a estrutura no SQL Server Management Studio 18.
-La pude modificar e aplicar todas as alterações necessárias.
+Lá modifiquei e apliquei todas as alterações necessárias.
 
 ![diagrama](/assets/img/diagramaBancoDeDadosCovid.png)
 
 ## 📚 Oque aprendi ?
 
-- Criação de scrips no SQL Server Management Studio.
+- Criação de scripts no SQL Server Management Studio.
 - Criação e utilização prática do Storage Procedure.
 - Criação e utilização prática das Views.
 - Modelagem e manipulação do banco de dados.
